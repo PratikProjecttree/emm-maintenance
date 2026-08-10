@@ -1,0 +1,26 @@
+{
+  "DEV": {
+    "startUtc": "2026-08-15T12:02:00Z",
+    "endUtc": "2026-08-15T12:30:00Z",
+    "message": "",
+    "status": "Scheduled"
+  },
+  "QA": {
+    "startUtc": "",
+    "endUtc": "",
+    "message": "Scheduled system maintenance.",
+    "status": ""
+  },
+  "UAT": {
+    "startUtc": "",
+    "endUtc": "",
+    "message": "Scheduled system maintenance.",
+    "status": ""
+  },
+  "PROD": {
+    "startUtc": "",
+    "endUtc": "",
+    "message": "Scheduled system maintenance.",
+    "status": ""
+  }
+}
