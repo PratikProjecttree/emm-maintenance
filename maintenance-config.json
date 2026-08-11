@@ -3,7 +3,7 @@
     "startUtc": "2026-08-09T11:30:00Z",
     "endUtc": "2026-08-09T12:00:00Z",
     "message": "",
-    "status": "Scheduled"
+    "status": "Deployed"
   },
   "QA": {
     "startUtc": "",
