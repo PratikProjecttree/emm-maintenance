@@ -6,10 +6,10 @@
     "status": "Deployed"
   },
   "QA": {
-    "startUtc": "",
-    "endUtc": "",
-    "message": "Scheduled system maintenance.",
-    "status": ""
+    "startUtc": "2026-08-12T11:30:00Z",
+    "endUtc": "2026-08-12T12:30:00Z",
+    "message": "",
+    "status": "scheduled"
   },
   "UAT": {
     "startUtc": "",
