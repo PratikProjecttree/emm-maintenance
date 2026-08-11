@@ -6,8 +6,8 @@
     "status": "Deployed"
   },
   "QA": {
-    "startUtc": "2026-08-12T11:30:00Z",
-    "endUtc": "2026-08-12T12:30:00Z",
+    "startUtc": "2026-08-11T14:34:00Z",
+    "endUtc": "2026-08-11T14:40:00Z",
     "message": "",
     "status": "scheduled"
   },
