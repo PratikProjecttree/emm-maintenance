@@ -12,10 +12,10 @@
     "status": "Deployed"
   },
   "UAT": {
-    "startUtc": "",
-    "endUtc": "",
-    "message": "Scheduled system maintenance.",
-    "status": ""
+    "startUtc": "2026-08-15T14:30:00Z",
+    "endUtc": "2026-08-15T14:45:00Z",
+    "message": "",
+    "status": "Scheduled"
   },
   "PROD": {
     "startUtc": "",
