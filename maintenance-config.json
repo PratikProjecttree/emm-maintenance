@@ -15,7 +15,7 @@
     "startUtc": "2026-08-18T06:45:00Z",
     "endUtc": "2026-08-18T06:55:00Z",
     "message": "",
-    "status": "Scheduled"
+    "status": "Completed"
   },
   "PROD": {
     "startUtc": "",
