@@ -12,10 +12,10 @@
     "status": "Deployed"
   },
   "UAT": {
-    "startUtc": "2026-08-17T19:30:00Z",
-    "endUtc": "2026-08-17T20:30:00Z",
+    "startUtc": "2026-08-18T06:45:00Z",
+    "endUtc": "2026-08-18T06:55:00Z",
     "message": "",
-    "status": "Deployed"
+    "status": "Scheduled"
   },
   "PROD": {
     "startUtc": "",
