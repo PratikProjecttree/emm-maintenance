@@ -1,9 +1,9 @@
 {
   "DEV": {
-    "startUtc": "2026-08-11T14:32:00Z",
-    "endUtc": "2026-08-11T14:45:00Z",
+    "startUtc": "2026-08-19T08:30:00Z",
+    "endUtc": "2026-08-19T08:45:00Z",
     "message": "",
-    "status": "Deployed"
+    "status": "Scheduled"
   },
   "QA": {
     "startUtc": "2026-08-11T14:34:00Z",
