@@ -15,7 +15,7 @@
     "startUtc": "2026-08-17T19:30:00Z",
     "endUtc": "2026-08-17T20:30:00Z",
     "message": "",
-    "status": "Scheduled"
+    "status": "Deployed"
   },
   "PROD": {
     "startUtc": "",
