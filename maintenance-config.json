@@ -1,26 +1,42 @@
 {
   "DEV": {
-    "startUtc": "2026-08-11T14:34:00Z",
-    "endUtc": "2026-08-11T14:40:00Z",
-    "message": "",
+    "startUtc": "2026-08-24T10:00:00Z",
+    "endUtc": "2026-08-24T10:30:00Z",
+    "scheduledMessage": "scheduledMessage",
+    "inProgressMessage": "inProgressMessage",
+    "extendedMessage": "extendedMessage",
+    "earlyCompletedMessage": "earlyCompletedMessage",
+    "maintenanceCompletedMessage": "maintenanceCompletedMessage"
     "status": "Deployed"
   },
   "QA": {
     "startUtc": "2026-08-18T14:30:00Z",
     "endUtc": "2026-08-18T14:40:00Z",
-    "message": "",
+    "scheduledMessage": "",
+    "inProgressMessage": "",
+    "extendedMessage": "",
+    "earlyCompletedMessage": "",
+    "maintenanceCompletedMessage": ""
     "status": "Deployed"
   },
   "UAT": {
     "startUtc": "2026-08-17T10:00:00Z",
     "endUtc": "2026-08-17T10:50:00Z",
-    "message": "",
+    "scheduledMessage": "",
+    "inProgressMessage": "",
+    "extendedMessage": "",
+    "earlyCompletedMessage": "",
+    "maintenanceCompletedMessage": ""
     "status": "Deployed"
   },
   "PROD": {
     "startUtc": "",
     "endUtc": "",
-    "message": "Scheduled system maintenance.",
+    "scheduledMessage": "",
+    "inProgressMessage": "",
+    "extendedMessage": "",
+    "earlyCompletedMessage": "",
+    "maintenanceCompletedMessage": ""
     "status": ""
   }
 }
