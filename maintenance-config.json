@@ -7,7 +7,7 @@
     "extendedMessage": "extendedMessage",
     "earlyCompletedMessage": "earlyCompletedMessage",
     "maintenanceCompletedMessage": "maintenanceCompletedMessage"
-    "status": "Deployed"
+    "status": "scheduled"
   },
   "QA": {
     "startUtc": "2026-08-18T14:30:00Z",
