@@ -1,12 +1,12 @@
 {
   "DEV": {
-    "startUtc": "2026-08-24T10:00:00Z",
+    "startUtc": "2026-08-24T10:10:00Z",
     "endUtc": "2026-08-24T10:30:00Z",
     "scheduledMessage": "scheduledMessage",
     "inProgressMessage": "inProgressMessage",
     "extendedMessage": "extendedMessage",
     "earlyCompletedMessage": "earlyCompletedMessage",
-    "maintenanceCompletedMessage": "maintenanceCompletedMessage"
+    "maintenanceCompletedMessage": "maintenanceCompletedMessage",
     "status": "Scheduled"
   },
   "QA": {
@@ -16,7 +16,7 @@
     "inProgressMessage": "",
     "extendedMessage": "",
     "earlyCompletedMessage": "",
-    "maintenanceCompletedMessage": ""
+    "maintenanceCompletedMessage": "",
     "status": "Deployed"
   },
   "UAT": {
@@ -26,7 +26,7 @@
     "inProgressMessage": "",
     "extendedMessage": "",
     "earlyCompletedMessage": "",
-    "maintenanceCompletedMessage": ""
+    "maintenanceCompletedMessage": "",
     "status": "Deployed"
   },
   "PROD": {
@@ -36,7 +36,7 @@
     "inProgressMessage": "",
     "extendedMessage": "",
     "earlyCompletedMessage": "",
-    "maintenanceCompletedMessage": ""
+    "maintenanceCompletedMessage": "",
     "status": ""
   }
 }
