@@ -1,5 +1,5 @@
 {
-  "DEV": {
+  "DEVS": {
     "startUtc": "2026-08-23T09:00:00Z",
     "endUtc": "2026-08-23T10:00:00Z",
     "scheduledMessage": "",
