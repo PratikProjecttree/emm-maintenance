@@ -1,1 +1,43 @@
+{
+  "DEV": {
+    "startUtc": "2026-08-23T09:00:00Z",
+    "endUtc": "2026-08-23T10:00:00Z",
+    "scheduledMessage": "",
+    "inProgressMessage": "",
+    "extendedMessage": "",
+    "earlyCompletedMessage": "",
+    "maintenanceCompletedMessage": "",
+    "status": "Deployed"
+  },
+  "QA": {
+    "startUtc": "2026-08-26T10:55:00Z",
+    "endUtc": "2026-08-26T11:10:00Z",
+    "scheduledMessage": "scheduledMessage",
+    "inProgressMessage": "inProgressMessage",
+    "extendedMessage": "extendedMessage",
+    "earlyCompletedMessage": "earlyCompletedMessage",
+    "maintenanceCompletedMessage": "maintenanceCompletedMessage",
+    "status": "scheduled"
+  },
+  "UAT": {
+    "startUtc": "2026-08-17T10:00:00Z",
+    "endUtc": "2026-08-17T10:50:00Z",
+    "scheduledMessage": "",
+    "inProgressMessage": "",
+    "extendedMessage": "",
+    "earlyCompletedMessage": "",
+    "maintenanceCompletedMessage": "",
+    "status": "Deployed"
+  },
+  "PROD": {
+    "startUtc": "",
+    "endUtc": "",
+    "scheduledMessage": "",
+    "inProgressMessage": "",
+    "extendedMessage": "",
+    "earlyCompletedMessage": "",
+    "maintenanceCompletedMessage": "",
+    "status": "Deployed"
+  }
+}
 
