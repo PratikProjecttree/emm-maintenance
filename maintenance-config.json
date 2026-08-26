@@ -10,14 +10,14 @@
     "status": "Deployed"
   },
   "QA": {
-    "startUtc": "2026-08-26T10:50:00Z",
-    "endUtc": "2026-08-26T10:55:00Z",
-    "scheduledMessage": "scheduledMessage",
-    "inProgressMessage": "inProgressMessage",
-    "extendedMessage": "extendedMessage",
-    "earlyCompletedMessage": "earlyCompletedMessage",
-    "maintenanceCompletedMessage": "maintenanceCompletedMessage",
-    "status": "deployed"
+    "startUtc": "2026-08-24T10:50:00Z",
+    "endUtc": "2026-08-24T10:55:00Z",
+    "scheduledMessage": "",
+    "inProgressMessage": "",
+    "extendedMessage": "",
+    "earlyCompletedMessage": "",
+    "maintenanceCompletedMessage": "",
+    "status": "Deployed"
   },
   "UAT": {
     "startUtc": "2026-08-17T10:00:00Z",
